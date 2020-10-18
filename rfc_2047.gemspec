@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name = 'rfc_2047'
+  spec.name = 'new_rfc_2047'
   spec.version = '1.0.0'
   spec.licenses = ['MIT']
   spec.summary = 'An implementation of RFC 2047'

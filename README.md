@@ -5,7 +5,7 @@ A Ruby implementation of [RFC 2047][rfc 2047].
 ## Installation
 
 ```
-gem install rfc_2047
+gem install new_rfc_2047
 ```
 
 ## Usage
