@@ -1,6 +1,6 @@
 # rfc_2047
 
-A Ruby implementation of [RFC 2047][rfc 2047].
+It is a Ruby implementation of [RFC 2047][rfc 2047], which is more accurate and fault-tolerant than [ConradIrwin/rfc2047-ruby](https://github.com/ConradIrwin/rfc2047-ruby). The former can encode, decode, and handle charset correctly, while the latter only implement decoding function.
 
 ## Installation
 
